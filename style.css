@@ -1,0 +1,33 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.logo{
+  position: relative;
+  left: 35%;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+  font-size: 3.3rem;
+}
+
+#links{
+  font-size: 1.5rem;
+}
+
+#intro, #marks, #rules {
+  padding: 50px 83px;
+}
+
+
+#login{
+  background: url('https://www.siemplify.co/wp-content/uploads/2019/06/cyber-security-vulnerabilities-1.jpg') center center no-repeat / cover;
+}
+
+
+/* Test file */
+
+.question{
+  height: 60vh;
+  background: url('https://techspective.net/wp-content/uploads/2019/02/key-2114046_1920.jpg') center center no-repeat /cover;
+}
